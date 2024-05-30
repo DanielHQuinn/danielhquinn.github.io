@@ -1,2 +1,2 @@
 # danielhquinn.github.io
-A website.
+A cool website.
